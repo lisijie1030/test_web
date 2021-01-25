@@ -1,0 +1,30 @@
+1608616835309	geckodriver	INFO	Listening on 127.0.0.1:60232
+1608616838319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lisijie\\AppData\\Local\\Temp\\rust_mozprofileVOE4hB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608616840622	Marionette	INFO	Listening on port 60241
+1608616841000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608617240570	Marionette	INFO	Stopped listening on port 60241
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608874854063	geckodriver	INFO	Listening on 127.0.0.1:62013
+1608874857083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lisijie\\AppData\\Local\\Temp\\rust_mozprofileyFgIiV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608874859109	Marionette	INFO	Listening on port 62023
+1608874859212	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1608874935945	Marionette	INFO	Stopped listening on port 62021608874937466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lisijie\\AppData\\Local\\Temp\\rust_mozprofiles05Vgd"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608874939458	Marionette	INFO	Listening on port 62079
+1608874939499	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608875392387	Marionette	INFO	Stopped listening on port 62079
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
